@@ -1,0 +1,22 @@
+{
+    "name": "swade-cartes-d-aventures",
+    "title": "SWADE-Cartes d'aventures",
+    "description": "A module containing the exported SWADE-Cartes d'aventures compendium.",
+    "version": "1.0.0",
+    "library": "false",
+    "manifestPlusVersion": "1.0.0",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "author": "Fred",
+    "packs": [
+        {
+            "type": "Cards",
+            "label": "SWADE cartes aventure",
+            "module": "swade-cartes-d-aventures",
+            "path": "packs/world-swade-cartes-aventure-1658949897366.db",
+            "name": "world-swade-cartes-aventure-1658949897366"
+        }
+    ],
+    "manifest": "http://localhost:30000/compendium2module/swade-cartes-d-aventures/module.json",
+    "download": "http://localhost:30000/compendium2module/swade-cartes-d-aventures/module-zip.txt"
+}
